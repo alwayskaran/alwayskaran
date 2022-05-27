@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @alwayskaran
+- 👋 Hi, I’m Karan Verma
 - 👀 I’m interested in ...C,Cpp,HTML,CSS and Java
 - 🌱 I’m currently learning Android development
-- 💞️ I’m looking for the guidance of experience person under which i want to do work freely
+- 💞️ I’m looking for the guidance of experience person under which i want to do work free
 - 📫 How to reach me ... Mail me on karanverma29sep@gmail.com
 
 <!---
